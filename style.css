@@ -1,0 +1,32 @@
+h1 {
+  background-color: green;
+  color: white;
+  font-size: 100px;
+  line-height: 50px;
+}
+
+h3 {
+  color: red;
+}
+
+.description {
+  color: orange;
+}
+
+#favorite {
+  color: gold;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: 'Diphylleia', serif;
+}
+
+* {
+  font-size: 30px;
+}
+
+p {
+  font-size: 40px;
+}
